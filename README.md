@@ -7,9 +7,11 @@ Remove background" dalam bahasa Indonesia berarti menghapus latar belakang atau 
 ```makefile
 pkg update -y && pkg upgrade -y && pkg install git python-pip tesseract && git clone https://github.com/BagasExpoit/Remove-Background.git && cd Remove-Background && pip install -r requirements.txt
 ```
+## BUKA FILE .ENV
+EDIT DENGAN API KEY YANG KAMU PUNYA JIKA BELUM PUNYA DAFTAR [`DISINI`](https://www.remove.bg/id/users/sign_up)
 ## UNTUK MENJALAKAN COPY PERINTAH
 ```makefile
-python3 Running.py
+python3 hapus.py
 ```
 ### BUG LAPORKAN
 <a href="https://t.me/Bagas_ocarius" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&mssage=Click%20Here&color=blue"></a>
