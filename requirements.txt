@@ -1,4 +1,5 @@
-rich
-colorama
-request
-pillow
+requests>=2.31.0
+Pillow>=10.0.0
+pyfiglet>=0.8.post1
+rich>=13.5.0
+python-dotenv>=1.0.0
