@@ -5,7 +5,7 @@ Remove background" dalam bahasa Indonesia berarti menghapus latar belakang atau 
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 ### Instalation 
 ```makefile
-pkg update -y && pkg upgrade -y && pkg install git python-pip tesseract && git clone https://github.com/BagasExpoit/Remove.git && cd Remove-Background && pip install -r requirements.txt
+pkg update -y && pkg upgrade -y && pkg install git python-pip tesseract && git clone https://github.com/BagasExpoit/Remove.git && cd Remove && pip install -r requirements.txt
 ```
 ## BUKA FILE .ENV
 EDIT DENGAN API KEY YANG KAMU PUNYA JIKA BELUM PUNYA DAFTAR [`DISINI`](https://www.remove.bg/id/users/sign_up)
